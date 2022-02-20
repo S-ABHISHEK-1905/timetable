@@ -102,3 +102,7 @@ Execute the program
 ~~~
 # OUPUT
 ![GitHub Logo](ABHISHEK_TT.png)
+
+# RESULT 
+
+Thus the time table is displayed in a webpage.
